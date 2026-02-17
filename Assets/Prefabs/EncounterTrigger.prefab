@@ -1,0 +1,7 @@
+%YAML 1.1
+# Placeholder prefab for encounter trigger volume.
+GameObject:
+  m_Name: EncounterTrigger
+  Components:
+    - Collider(isTrigger=true)
+    - EncounterController

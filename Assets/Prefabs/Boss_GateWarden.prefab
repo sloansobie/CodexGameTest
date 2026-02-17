@@ -1,0 +1,8 @@
+%YAML 1.1
+# Placeholder prefab for Gate Warden boss.
+GameObject:
+  m_Name: Boss_GateWarden
+  Components:
+    - NavMeshAgent
+    - Health
+    - BossController

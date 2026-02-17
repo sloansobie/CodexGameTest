@@ -1,0 +1,8 @@
+%YAML 1.1
+# Placeholder prefab for Hex Archer enemy.
+GameObject:
+  m_Name: Enemy_HexArcher
+  Components:
+    - NavMeshAgent
+    - Health
+    - EnemyAI(type=HexArcher)

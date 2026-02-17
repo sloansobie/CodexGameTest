@@ -1,0 +1,8 @@
+%YAML 1.1
+# Placeholder prefab for Pistols role player.
+GameObject:
+  m_Name: Player_Pistols
+  Components:
+    - CharacterController
+    - Health
+    - PlayerBaseController(role=Pistols)

@@ -1,0 +1,8 @@
+%YAML 1.1
+# Placeholder prefab for Tank role player.
+GameObject:
+  m_Name: Player_Tank
+  Components:
+    - CharacterController
+    - Health
+    - PlayerBaseController(role=Tank)
