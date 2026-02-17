@@ -1,0 +1,8 @@
+%YAML 1.1
+# Placeholder prefab for Archer role player.
+GameObject:
+  m_Name: Player_Archer
+  Components:
+    - CharacterController
+    - Health
+    - PlayerBaseController(role=Archer)

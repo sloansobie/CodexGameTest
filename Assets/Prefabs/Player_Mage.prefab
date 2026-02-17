@@ -1,0 +1,10 @@
+%YAML 1.1
+# Placeholder prefab for Mage role player.
+GameObject:
+  m_Name: Player_Mage
+  Components:
+    - CharacterController
+    - Health
+    - PlayerBaseController(role=Mage)
+    - MageCommandSystem
+    - MageWardAura

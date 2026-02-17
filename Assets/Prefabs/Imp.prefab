@@ -1,0 +1,8 @@
+%YAML 1.1
+# Placeholder prefab for summoned imp.
+GameObject:
+  m_Name: Imp
+  Components:
+    - NavMeshAgent
+    - Health
+    - ImpAI
